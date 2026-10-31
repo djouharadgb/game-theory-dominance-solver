@@ -2,9 +2,6 @@
 
 Élimination itérée des stratégies dominées (dominance **stricte** et **faible**) pour un jeu fini sous forme normale,
 avec un nombre quelconque de joueurs et de stratégies par joueur. Seules les stratégies pures sont considérées.
-
-TP de théorie des jeux, Master 2 – FI/Département IA&SD.
-
 ## Contenu du dépôt
 
 | Fichier | Rôle |
